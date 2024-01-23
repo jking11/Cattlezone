@@ -5,6 +5,15 @@ CATTLEZONE
 A reworking of the 1980 Atari vector-based arcade game Battlezone, but with cows instead of tanks.
 
 
+Software Versions
+-----------------
+
+This project uses the following software:
+
+  - Unreal Engine 5.3.2
+  - Maya 2022
+
+
 Game objects
 ------------
 
